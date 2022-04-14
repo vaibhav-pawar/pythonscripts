@@ -1,0 +1,36 @@
+# Script name here
+
+A short description of what the script does.
+
+## 🚀 Features
+
+- A list
+- of the script
+- features
+
+## 💾 Usage
+
+Describe how to use the script here.
+
+```powershell
+python3.exe .\my-script.py --help
+```
+## 💭 Examples
+
+Put some examples of use cases for the script.
+
+```powershell
+python3.exe .\my-script.py -f file.csv
+
+1234 lines successfully written to files.csv
+```
+
+```powershell
+python3.exe .\my-script.py -n My-Network --switch my-meraki-switch
+
+Network: My-Network
+Device: my-meraki-switch
+IP address: 192.168.0.10
+Number of clients: 55
+...
+```
