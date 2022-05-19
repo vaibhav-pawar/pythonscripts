@@ -1,0 +1,5021 @@
+{
+    "Q3AA-3WN2-YK2G": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c1:ca",
+        "model": "MR45"
+    },
+    "Q3AA-ZTCZ-BMSU": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c2:b4",
+        "model": "MR45"
+    },
+    "Q3AA-3YGC-T9JU": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:08",
+        "model": "MR45"
+    },
+    "Q3AA-69BQ-XPBL": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:0a",
+        "model": "MR45"
+    },
+    "Q3AA-PCHR-KX7F": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:a7",
+        "model": "MR45"
+    },
+    "Q3AA-M2W2-L3UN": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:e1",
+        "model": "MR45"
+    },
+    "Q3AA-VVN8-YEEV": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:ea",
+        "model": "MR45"
+    },
+    "Q3AA-5MPN-H5DA": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:f4",
+        "model": "MR45"
+    },
+    "Q3AA-HMBM-N4BE": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:10",
+        "model": "MR45"
+    },
+    "Q3AA-HSCX-WCTQ": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:40",
+        "model": "MR45"
+    },
+    "Q3AA-85U2-GSMS": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:6f",
+        "model": "MR45"
+    },
+    "Q3AA-JLAY-WU7R": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:70",
+        "model": "MR45"
+    },
+    "Q3AA-Y7KK-A9VX": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:78",
+        "model": "MR45"
+    },
+    "Q3AA-YM2H-95E3": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:7a",
+        "model": "MR45"
+    },
+    "Q3AA-YB87-4YA4": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:7b",
+        "model": "MR45"
+    },
+    "Q3AA-ALPZ-MDMY": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:84",
+        "model": "MR45"
+    },
+    "Q3AA-HMT3-8H5Z": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:dd",
+        "model": "MR45"
+    },
+    "Q3AA-XDH3-SZAY": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c2:13",
+        "model": "MR45"
+    },
+    "Q3AA-Y9ZS-C7JG": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:34",
+        "model": "MR45"
+    },
+    "Q3AA-BE6L-VDS6": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:40",
+        "model": "MR45"
+    },
+    "Q3AA-JH8T-R2CK": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c3:f1",
+        "model": "MR45"
+    },
+    "Q3AA-SU9B-KACU": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:0e",
+        "model": "MR45"
+    },
+    "Q3AA-HGZZ-U4XP": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:3d",
+        "model": "MR45"
+    },
+    "Q3AA-2KGW-X4ZY": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "68:3a:1e:2e:c4:7c",
+        "model": "MR45"
+    },
+    "Q2CY-5VLD-LM77": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1b:cc:20",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UD6F-7DEN": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:03:1f",
+        "model": "MS355-48X"
+    },
+    "Q2CY-GVCF-BY3W": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:19:9c",
+        "model": "MS355-48X"
+    },
+    "Q2CY-RQ22-WRCV": {
+        "network": "SRV-FR1-Horizon",
+        "networkId": "L_662029145223468588",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:22:bd",
+        "model": "MS355-48X"
+    },
+    "Q2CY-LMKS-X2QF": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:1c:7b:5b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-5SGM-3L7X": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:1c:ef:5c",
+        "model": "MS355-48X"
+    },
+    "Q3AA-8GTJ-9A2E": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8d:df",
+        "model": "MR45"
+    },
+    "Q3AA-A99N-YBUF": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8d:fb",
+        "model": "MR45"
+    },
+    "Q3AA-9NQD-68UQ": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8d:fd",
+        "model": "MR45"
+    },
+    "Q3AA-3WSN-Q8RY": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8e:06",
+        "model": "MR45"
+    },
+    "Q3AA-D38B-EU4V": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8e:07",
+        "model": "MR45"
+    },
+    "Q3AA-2R7G-ALD2": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8e:34",
+        "model": "MR45"
+    },
+    "Q3AA-M663-4A75": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8e:cf",
+        "model": "MR45"
+    },
+    "Q3AA-SPBY-CDU5": {
+        "network": "SRV-JP1-Japan",
+        "networkId": "L_662029145223475109",
+        "timeZone": "Japan",
+        "mac": "98:18:88:12:8f:83",
+        "model": "MR45"
+    },
+    "Q2CY-RWZR-Z7VG": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1b:5d:e9",
+        "model": "MS355-48X"
+    },
+    "Q2CY-YMJM-ZJQL": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:87:9a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-R8P3-5V82": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:c0:9a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-9HHB-FNWX": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:d4:6b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-N5GD-L2D2": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:e3:1d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UQDJ-QL7E": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:e9:59",
+        "model": "MS355-48X"
+    },
+    "Q2CY-26YV-ZLGV": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:04:f5",
+        "model": "MS355-48X"
+    },
+    "Q2CY-FBTG-QDGC": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:99:dc",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UYU2-NMQ5": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:c5:47",
+        "model": "MS355-48X"
+    },
+    "Q2CY-NZ8F-MYYP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:e4:01",
+        "model": "MS355-48X"
+    },
+    "Q2CY-BKKZ-C3JF": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:0e:88",
+        "model": "MS355-48X"
+    },
+    "Q2CY-D5UA-VMYH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1b:d5:08",
+        "model": "MS355-48X"
+    },
+    "Q2CY-3YTU-LMYN": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:2e:18",
+        "model": "MS355-48X"
+    },
+    "Q2CY-54KS-EYLJ": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:8d:2b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-C9VR-EQG7": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:0f:33",
+        "model": "MS355-48X"
+    },
+    "Q2CY-5XVG-MFB2": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:29:eb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-KG4K-9Z39": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:39:f3",
+        "model": "MS355-48X"
+    },
+    "Q2CY-QUSD-4ZN3": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:a1:ee",
+        "model": "MS355-48X"
+    },
+    "Q2CY-3WFY-2BYG": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:62:b3:50",
+        "model": "MS355-48X"
+    },
+    "Q2CY-GYNQ-NPH9": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:a7:a9",
+        "model": "MS355-48X"
+    },
+    "Q2CY-D475-PZ59": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:ba:96",
+        "model": "MS355-48X"
+    },
+    "Q2CY-SNZM-T2WP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:61:c0",
+        "model": "MS355-48X"
+    },
+    "Q2CY-C8DX-NMXQ": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:73:57",
+        "model": "MS355-48X"
+    },
+    "Q2CY-FLX2-STWW": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:9a:15",
+        "model": "MS355-48X"
+    },
+    "Q2CY-344S-Z3A4": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:cd:84",
+        "model": "MS355-48X"
+    },
+    "Q2CY-MGLB-R2CS": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:fd:63",
+        "model": "MS355-48X"
+    },
+    "Q2CY-45KJ-BHYC": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:e9:2e",
+        "model": "MS355-48X"
+    },
+    "Q2CY-HB6Z-52NH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:e3:55",
+        "model": "MS355-48X"
+    },
+    "Q2CY-QV6J-N6DP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1b:5d:05",
+        "model": "MS355-48X"
+    },
+    "Q2CY-M44K-CMR8": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:1c:f3",
+        "model": "MS355-48X"
+    },
+    "Q2CY-YJKW-M5LF": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:2a:16",
+        "model": "MS355-48X"
+    },
+    "Q2CY-BL5F-NUKH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:72:ac",
+        "model": "MS355-48X"
+    },
+    "Q2CY-M39D-LQYD": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:7b:cd",
+        "model": "MS355-48X"
+    },
+    "Q2CY-RVD4-Y6NY": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:a4:53",
+        "model": "MS355-48X"
+    },
+    "Q2CY-97WY-NX5A": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:b0:92",
+        "model": "MS355-48X"
+    },
+    "Q2CY-DM2N-ERHW": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:b4:5b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-EJVA-8JEF": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:b5:78",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UNQM-5C6M": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:e9:20",
+        "model": "MS355-48X"
+    },
+    "Q2CY-6E4V-GLED": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:ef:95",
+        "model": "MS355-48X"
+    },
+    "Q2CY-8LAK-7KYB": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:f2:08",
+        "model": "MS355-48X"
+    },
+    "Q2CY-PLKK-X434": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1c:fe:47",
+        "model": "MS355-48X"
+    },
+    "Q2CY-9L7H-PQD4": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:1d:0c:87",
+        "model": "MS355-48X"
+    },
+    "Q2CY-LPFT-BCAD": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:36:c6",
+        "model": "MS355-48X"
+    },
+    "Q2CY-JF6Y-DZGR": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:73:1d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UJXC-AE62": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "ac:17:c8:1d:b3:76",
+        "model": "MS355-48X"
+    },
+    "Q3AC-GRSN-M6AG": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:28",
+        "model": "MR46"
+    },
+    "Q3AC-CDJL-75EL": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:3c",
+        "model": "MR46"
+    },
+    "Q3AC-64LR-KC7S": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:f2",
+        "model": "MR46"
+    },
+    "Q3AC-C6MX-KWS9": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:fa",
+        "model": "MR46"
+    },
+    "Q3AC-JZH4-MW2Y": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:ff",
+        "model": "MR46"
+    },
+    "Q3AC-LPX3-WSQH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:06",
+        "model": "MR46"
+    },
+    "Q3AC-4PPY-LGQX": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:22",
+        "model": "MR46"
+    },
+    "Q3AC-XTMY-RZMB": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:36",
+        "model": "MR46"
+    },
+    "Q3AC-SYME-257C": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:c9:da",
+        "model": "MR46"
+    },
+    "Q3AC-LY9Z-JDEH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:f9",
+        "model": "MR46"
+    },
+    "Q3AC-NSKA-7DJX": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:fd",
+        "model": "MR46"
+    },
+    "Q3AC-2AMC-DZ3D": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:21",
+        "model": "MR46"
+    },
+    "Q3AC-QBH4-X4MP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:ce:ac",
+        "model": "MR46"
+    },
+    "Q3AC-K9CD-LPN9": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:23",
+        "model": "MR46"
+    },
+    "Q3AC-AY9U-J9CF": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:25",
+        "model": "MR46"
+    },
+    "Q3AC-HH7Y-CHED": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:26",
+        "model": "MR46"
+    },
+    "Q3AC-MKFJ-LLS7": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:27",
+        "model": "MR46"
+    },
+    "Q3AC-USX9-E36D": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:2a",
+        "model": "MR46"
+    },
+    "Q3AC-FL58-3SF9": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:2d",
+        "model": "MR46"
+    },
+    "Q3AC-UMPM-PNUP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:2e",
+        "model": "MR46"
+    },
+    "Q3AC-Q2UC-9ZJP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:33",
+        "model": "MR46"
+    },
+    "Q3AC-5SUA-5BZ6": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:3f",
+        "model": "MR46"
+    },
+    "Q3AC-X8PQ-X2DG": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:d6",
+        "model": "MR46"
+    },
+    "Q3AC-M9BD-Y9CY": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cd:e4",
+        "model": "MR46"
+    },
+    "Q3AC-VRQJ-8K5B": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:ce:88",
+        "model": "MR46"
+    },
+    "Q3AC-RLWB-EKAR": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:ce:b4",
+        "model": "MR46"
+    },
+    "Q3AC-HL79-4REH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:93",
+        "model": "MR46"
+    },
+    "Q3AC-M639-KY9Y": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:ae",
+        "model": "MR46"
+    },
+    "Q3AC-EH34-Y46F": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:b1",
+        "model": "MR46"
+    },
+    "Q3AC-NETT-UT7N": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:f0",
+        "model": "MR46"
+    },
+    "Q3AC-AGQD-2E3Z": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:f1",
+        "model": "MR46"
+    },
+    "Q3AC-34EA-72H9": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:f8",
+        "model": "MR46"
+    },
+    "Q3AC-M2JY-PHFP": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cc:fe",
+        "model": "MR46"
+    },
+    "Q3AC-8G3A-U3FH": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:c9:fc",
+        "model": "MR46"
+    },
+    "Q3AC-KK4V-G7MQ": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:a1",
+        "model": "MR46"
+    },
+    "Q3AC-9ZXN-2A2Z": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:ac",
+        "model": "MR46"
+    },
+    "Q3AC-26VV-Q65A": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:b3",
+        "model": "MR46"
+    },
+    "Q3AC-A9V4-XRVN": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:b7",
+        "model": "MR46"
+    },
+    "Q3AC-KWAZ-QCZZ": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:b9",
+        "model": "MR46"
+    },
+    "Q3AC-QJHZ-WM35": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:ba",
+        "model": "MR46"
+    },
+    "Q3AC-49V3-DL4C": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:bb",
+        "model": "MR46"
+    },
+    "Q3AC-5S9R-346C": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:c0",
+        "model": "MR46"
+    },
+    "Q3AC-7ZH8-XC5M": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:c6",
+        "model": "MR46"
+    },
+    "Q3AC-HAC6-P7V2": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:cc",
+        "model": "MR46"
+    },
+    "Q3AC-ZAZ9-7T5K": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:cd",
+        "model": "MR46"
+    },
+    "Q3AC-GPHQ-P4U4": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fc:cb:ce",
+        "model": "MR46"
+    },
+    "Q3AB-MY6V-SYT6": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c2:2a",
+        "model": "MR56"
+    },
+    "Q3AB-FY4V-Z35R": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c0:c6",
+        "model": "MR56"
+    },
+    "Q3AB-C6P9-Y8F3": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c2:00",
+        "model": "MR56"
+    },
+    "Q3AB-SZ4S-ETMY": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c0:c3",
+        "model": "MR56"
+    },
+    "Q3AB-EW8Q-KQ2B": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c2:29",
+        "model": "MR56"
+    },
+    "Q3AB-7NQE-F4W8": {
+        "network": "BIO-CB7-Biogaran",
+        "networkId": "L_749849337957188523",
+        "timeZone": "Europe/Paris",
+        "mac": "98:18:88:fb:c0:c2",
+        "model": "MR56"
+    },
+    "Q2CY-3MUP-S6J9": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "98:18:88:93:5a:ab",
+        "model": "MS355-48X"
+    },
+    "Q2CY-CKY8-5WQB": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "98:18:88:93:5f:91",
+        "model": "MS355-48X"
+    },
+    "Q2CY-JG5C-3ETL": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "98:18:88:93:61:cb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-YU6L-6UPJ": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "98:18:88:93:6a:b3",
+        "model": "MS355-48X"
+    },
+    "Q3AC-9D8N-54SF": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:a4:84",
+        "model": "MR46"
+    },
+    "Q3AC-8M7D-EGTA": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9b:a8",
+        "model": "MR46"
+    },
+    "Q3AC-EM3E-WMZZ": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9b:e0",
+        "model": "MR46"
+    },
+    "Q3AC-N5HM-HJX3": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:d3",
+        "model": "MR46"
+    },
+    "Q3AC-BYCT-A7T2": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9b:7e",
+        "model": "MR46"
+    },
+    "Q3AC-MCLK-6DXJ": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:d4",
+        "model": "MR46"
+    },
+    "Q3AC-AYRQ-RPMT": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:d9",
+        "model": "MR46"
+    },
+    "Q3AC-X9MH-SSSF": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:e6",
+        "model": "MR46"
+    },
+    "Q3AC-JV5R-4NC2": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:e8",
+        "model": "MR46"
+    },
+    "Q3AC-2RUD-2C42": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:ec",
+        "model": "MR46"
+    },
+    "Q3AC-MV5G-ATGQ": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:ed",
+        "model": "MR46"
+    },
+    "Q3AC-K5Q4-D5V2": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9a:bf",
+        "model": "MR46"
+    },
+    "Q3AC-LWZP-R9CU": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:fa",
+        "model": "MR46"
+    },
+    "Q3AC-FDDZ-TXRN": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9e:ff",
+        "model": "MR46"
+    },
+    "Q3AC-UZJD-ECZW": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:9f:0b",
+        "model": "MR46"
+    },
+    "Q3AC-UP2C-L3FH": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "2c:3f:0b:e2:a4:80",
+        "model": "MR46"
+    },
+    "Q3AB-WVKD-3LB4": {
+        "network": "SRV-MM1-Myanmar",
+        "networkId": "L_772367336094040728",
+        "timeZone": "Asia/Rangoon",
+        "mac": "98:18:88:fe:d5:06",
+        "model": "MR56"
+    },
+    "Q2CY-2JR2-HK6A": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:2d:78",
+        "model": "MS355-48X"
+    },
+    "Q2CY-62A2-9SFC": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:2f:40",
+        "model": "MS355-48X"
+    },
+    "Q2CY-6JGD-WRAK": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:2f:b2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-9ZLJ-UDT9": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:31:41",
+        "model": "MS355-48X"
+    },
+    "Q2CY-JYBD-E3TU": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:35:7c",
+        "model": "MS355-48X"
+    },
+    "Q2CY-LVGY-WE2K": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:36:d2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-ZMAX-45SB": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:3e:64",
+        "model": "MS355-48X"
+    },
+    "Q2CY-7G33-ANKN": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:41:bb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-PPFQ-MEUC": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:4a:31",
+        "model": "MS355-48X"
+    },
+    "Q2CY-SEGX-TPRZ": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "a8:46:9d:1f:78:cd",
+        "model": "MS355-48X"
+    },
+    "Q2CY-HSJ4-YWTR": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "a8:46:9d:bb:f3:53",
+        "model": "MS355-48X"
+    },
+    "Q2CY-XUET-JPZF": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:93:3d:47",
+        "model": "MS355-48X"
+    },
+    "Q3AC-LECL-8232": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ab:b9",
+        "model": "MR46"
+    },
+    "Q3AC-34AZ-FDKQ": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ab:ab",
+        "model": "MR46"
+    },
+    "Q3AC-H3DU-3K79": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:82:a6",
+        "model": "MR46"
+    },
+    "Q3AC-9PK5-LKQ9": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:8a:95",
+        "model": "MR46"
+    },
+    "Q3AC-X3LQ-XNAK": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ab:9b",
+        "model": "MR46"
+    },
+    "Q3AC-VP8K-FERT": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:80:a9",
+        "model": "MR46"
+    },
+    "Q3AC-X4XB-7YNF": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:80:32",
+        "model": "MR46"
+    },
+    "Q3AC-9MMW-KJWD": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:92:92",
+        "model": "MR46"
+    },
+    "Q3AC-N4NC-9DT7": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:4a",
+        "model": "MR46"
+    },
+    "Q3AC-8NBV-YABZ": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:92:98",
+        "model": "MR46"
+    },
+    "Q3AC-HV56-2G8S": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:47",
+        "model": "MR46"
+    },
+    "Q3AC-BVYE-8GTY": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:82:cb",
+        "model": "MR46"
+    },
+    "Q3AC-LNFM-ATZB": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:0d",
+        "model": "MR46"
+    },
+    "Q3AC-EBZD-M39W": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:25",
+        "model": "MR46"
+    },
+    "Q3AC-RAKS-DBX9": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:82:b5",
+        "model": "MR46"
+    },
+    "Q3AC-DREJ-CCZF": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ab:a5",
+        "model": "MR46"
+    },
+    "Q3AC-9G3G-9JKA": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:24",
+        "model": "MR46"
+    },
+    "Q3AC-927P-F729": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:51",
+        "model": "MR46"
+    },
+    "Q3AC-Z2AF-RWTP": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:7d",
+        "model": "MR46"
+    },
+    "Q3AC-G7JG-DYSJ": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:54",
+        "model": "MR46"
+    },
+    "Q3AC-8W6K-8RXU": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:82:ae",
+        "model": "MR46"
+    },
+    "Q3AC-H8JL-GDAB": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ab:94",
+        "model": "MR46"
+    },
+    "Q3AC-D5PT-735B": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:e2:ac:60",
+        "model": "MR46"
+    },
+    "Q3AC-E5ZB-G9CP": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "f8:9e:28:80:80:a4",
+        "model": "MR46"
+    },
+    "Q3AB-LY94-CJHH": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:fe:e6:da",
+        "model": "MR56"
+    },
+    "Q3AB-FFPW-4M45": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:f3:4f:8a",
+        "model": "MR56"
+    },
+    "Q3AB-7C8U-YRDY": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:f3:4f:e4",
+        "model": "MR56"
+    },
+    "Q3AB-46NJ-K3DP": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:fe:d7:9e",
+        "model": "MR56"
+    },
+    "Q3AB-8JTL-AYBV": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:fe:e6:d4",
+        "model": "MR56"
+    },
+    "Q3AB-H568-QTNS": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:fe:e6:dc",
+        "model": "MR56"
+    },
+    "Q3AB-FS7Z-FL59": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:f3:51:74",
+        "model": "MR56"
+    },
+    "Q3AB-HH9S-AZXR": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:f3:51:3f",
+        "model": "MR56"
+    },
+    "Q3AB-67C7-SFN9": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "98:18:88:fe:e6:d1",
+        "model": "MR56"
+    },
+    "Q3AB-RMUA-5YPA": {
+        "network": "SRV-US2-United_States",
+        "networkId": "L_772367336094040884",
+        "timeZone": "US/Eastern",
+        "mac": "2c:3f:0b:f3:50:83",
+        "model": "MR56"
+    },
+    "Q2CY-JG3X-HQB8": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "2c:3f:0b:c6:04:ee",
+        "model": "MS355-48X"
+    },
+    "Q2CY-QJHP-N38S": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "2c:3f:0b:c6:09:62",
+        "model": "MS355-48X"
+    },
+    "Q2CY-XP4S-TD42": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "2c:3f:0b:c6:0d:64",
+        "model": "MS355-48X"
+    },
+    "Q3AC-RATW-BB9C": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:74:c7:ef",
+        "model": "MR46"
+    },
+    "Q3AC-MC4V-B8XY": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:7e",
+        "model": "MR46"
+    },
+    "Q3AC-MCAX-7Z9J": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:7f",
+        "model": "MR46"
+    },
+    "Q3AC-BEEK-TPV3": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:85",
+        "model": "MR46"
+    },
+    "Q3AC-XBP8-6RRY": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:91",
+        "model": "MR46"
+    },
+    "Q3AC-AHZF-3P2X": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:92",
+        "model": "MR46"
+    },
+    "Q3AC-HN38-X5VC": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:5b",
+        "model": "MR46"
+    },
+    "Q3AC-WNVY-8SAK": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:5f",
+        "model": "MR46"
+    },
+    "Q3AC-8GFC-NM2P": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "f8:9e:28:75:62:62",
+        "model": "MR46"
+    },
+    "Q3AB-DYJV-KUUW": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "98:18:88:ff:31:6a",
+        "model": "MR56"
+    },
+    "Q3AB-9HVP-KPAD": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "98:18:88:ff:31:70",
+        "model": "MR56"
+    },
+    "Q3AB-P3C5-WXR4": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "98:18:88:ff:31:76",
+        "model": "MR56"
+    },
+    "Q3AB-PMJL-X2DW": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "98:18:88:ff:31:77",
+        "model": "MR56"
+    },
+    "Q3AB-PHW6-9UUG": {
+        "network": "SRV-MA1-Morocco",
+        "networkId": "L_772367336094041128",
+        "timeZone": "Africa/Casablanca",
+        "mac": "98:18:88:ff:31:68",
+        "model": "MR56"
+    },
+    "Q3AC-TFDV-6KRN": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "f8:9e:28:75:61:84",
+        "model": "MR46"
+    },
+    "Q3AC-QLW7-6MB7": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "f8:9e:28:75:61:97",
+        "model": "MR46"
+    },
+    "Q3AC-JMTX-THCP": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "f8:9e:28:75:61:98",
+        "model": "MR46"
+    },
+    "Q3AC-D98U-5UUM": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "f8:9e:28:75:61:ac",
+        "model": "MR46"
+    },
+    "Q3AC-28J9-ZBNU": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "f8:9e:28:75:62:32",
+        "model": "MR46"
+    },
+    "Q3AB-L2LB-GDQ3": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "98:18:88:ff:30:3b",
+        "model": "MR56"
+    },
+    "Q2CY-F63P-NUV3": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "2c:3f:0b:c6:02:b4",
+        "model": "MS355-48X"
+    },
+    "Q2CY-QSJ6-RQFV": {
+        "network": "SRV-NL1-Netherlands",
+        "networkId": "L_772367336094041266",
+        "timeZone": "Europe/Amsterdam",
+        "mac": "2c:3f:0b:c6:09:9b",
+        "model": "MS355-48X"
+    },
+    "Q2ZD-WQ89-EYWV": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "68:3a:1e:54:9c:53",
+        "model": "MR55"
+    },
+    "Q2ZD-KLNB-MQXB": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "68:3a:1e:54:9a:b3",
+        "model": "MR55"
+    },
+    "Q2ZD-GYXW-C972": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "68:3a:1e:54:9a:ba",
+        "model": "MR55"
+    },
+    "Q3AA-7NAU-49D4": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:28:ee",
+        "model": "MR45"
+    },
+    "Q3AA-URF2-WGF2": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:28:f5",
+        "model": "MR45"
+    },
+    "Q3AA-K7NY-DPYJ": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:2a:06",
+        "model": "MR45"
+    },
+    "Q3AA-U89E-YNAH": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:2a:0d",
+        "model": "MR45"
+    },
+    "Q3AA-B7AE-LNLC": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:2a:45",
+        "model": "MR45"
+    },
+    "Q3AA-VGT9-C5C5": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "68:3a:1e:2e:c0:ec",
+        "model": "MR45"
+    },
+    "Q3AA-QPLR-JZ85": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:2f:e4",
+        "model": "MR45"
+    },
+    "Q3AA-HNK3-UQEL": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:03:14",
+        "model": "MR45"
+    },
+    "Q3AA-J6TN-9L5D": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "98:18:88:13:28:d3",
+        "model": "MR45"
+    },
+    "Q2AY-J6YV-SY9A": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "ac:17:c8:1e:8e:f5",
+        "model": "MS355-24X"
+    },
+    "Q2CY-3USS-6D4G": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "2c:3f:0b:c5:ad:a6",
+        "model": "MS355-48X"
+    },
+    "Q2CY-5S47-QTER": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "2c:3f:0b:c5:e4:de",
+        "model": "MS355-48X"
+    },
+    "Q2CY-KTXM-BDDH": {
+        "network": "SRV-TH1-Thailand",
+        "networkId": "L_772367336094041302",
+        "timeZone": "Asia/Bangkok",
+        "mac": "2c:3f:0b:c5:ec:70",
+        "model": "MS355-48X"
+    },
+    "Q2AY-KEHW-8YPE": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "98:18:88:19:95:7b",
+        "model": "MS355-24X"
+    },
+    "Q2AY-NXCH-RL86": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "98:18:88:19:8d:3b",
+        "model": "MS355-24X"
+    },
+    "Q3AC-WAAQ-2Q74": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:68:d0",
+        "model": "MR46"
+    },
+    "Q3AC-F29S-FBJZ": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:69:d7",
+        "model": "MR46"
+    },
+    "Q3AC-9NVW-T5WZ": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:69:e0",
+        "model": "MR46"
+    },
+    "Q3AC-QESV-3LCA": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:6a:0c",
+        "model": "MR46"
+    },
+    "Q3AC-JMZ8-34MZ": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:69:dd",
+        "model": "MR46"
+    },
+    "Q3AC-28R2-5ZHM": {
+        "network": "SRV-MM2-Myanmar",
+        "networkId": "L_772367336094041365",
+        "timeZone": "Asia/Yangon",
+        "mac": "2c:3f:0b:e3:69:f5",
+        "model": "MR46"
+    },
+    "Q3AC-VL7Z-HNFT": {
+        "network": "SRV-DK1-Denmark",
+        "networkId": "L_772367336094041401",
+        "timeZone": "Europe/Copenhagen",
+        "mac": "f8:9e:28:80:66:44",
+        "model": "MR46"
+    },
+    "Q3AC-KDM7-7KPV": {
+        "network": "SRV-DK1-Denmark",
+        "networkId": "L_772367336094041401",
+        "timeZone": "Europe/Copenhagen",
+        "mac": "f8:9e:28:80:66:bb",
+        "model": "MR46"
+    },
+    "Q2AY-WCXH-PRTJ": {
+        "network": "SRV-DK1-Denmark",
+        "networkId": "L_772367336094041401",
+        "timeZone": "Europe/Copenhagen",
+        "mac": "98:18:88:19:df:79",
+        "model": "MS355-24X"
+    },
+    "Q3AC-FQTA-NP6E": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a0",
+        "model": "MR46"
+    },
+    "Q3AC-DLWD-75HL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:f1",
+        "model": "MR46"
+    },
+    "Q3AC-GMEQ-782A": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9c",
+        "model": "MR46"
+    },
+    "Q3AC-BP4R-EBFS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a1",
+        "model": "MR46"
+    },
+    "Q3AC-SZEZ-RLAM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ac",
+        "model": "MR46"
+    },
+    "Q3AC-3ZDB-N9U2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:af",
+        "model": "MR46"
+    },
+    "Q3AC-PTNR-ZCNK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b2",
+        "model": "MR46"
+    },
+    "Q3AC-P34G-R2X5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c5",
+        "model": "MR46"
+    },
+    "Q3AC-JDGL-ZQPP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:da",
+        "model": "MR46"
+    },
+    "Q3AC-44NH-GYQ2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:40",
+        "model": "MR46"
+    },
+    "Q3AC-LEMJ-36NL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:bd",
+        "model": "MR46"
+    },
+    "Q3AC-J2XA-XN4L": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c8",
+        "model": "MR46"
+    },
+    "Q3AC-BM3M-6VLX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:dd",
+        "model": "MR46"
+    },
+    "Q3AC-38DA-J8DY": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c7",
+        "model": "MR46"
+    },
+    "Q3AC-52FQ-BCE7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:cc",
+        "model": "MR46"
+    },
+    "Q3AC-4K3Z-4X6U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:08",
+        "model": "MR46"
+    },
+    "Q3AC-VAHL-SA9K": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0a",
+        "model": "MR46"
+    },
+    "Q3AC-LFDE-3SG7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0b",
+        "model": "MR46"
+    },
+    "Q3AC-87JN-82GB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:14",
+        "model": "MR46"
+    },
+    "Q3AC-X7UT-DENN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:16",
+        "model": "MR46"
+    },
+    "Q3AC-6GTQ-U9NZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:24",
+        "model": "MR46"
+    },
+    "Q3AC-UV5C-MUN7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:f5",
+        "model": "MR46"
+    },
+    "Q3AC-B4JK-RJRH": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:f5",
+        "model": "MR46"
+    },
+    "Q3AC-38KV-929X": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:f8",
+        "model": "MR46"
+    },
+    "Q3AC-UXEW-5YFZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:fc",
+        "model": "MR46"
+    },
+    "Q3AC-G9XE-QN9N": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:09",
+        "model": "MR46"
+    },
+    "Q3AC-5S93-JDPZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:18",
+        "model": "MR46"
+    },
+    "Q3AC-ENYN-EQ6G": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:19",
+        "model": "MR46"
+    },
+    "Q3AC-JHLX-BGAX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:25",
+        "model": "MR46"
+    },
+    "Q3AC-XH3T-LZWX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:fd",
+        "model": "MR46"
+    },
+    "Q3AC-HZF8-9A3J": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:3b",
+        "model": "MR46"
+    },
+    "Q3AC-75GF-WQCN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:7f",
+        "model": "MR46"
+    },
+    "Q3AC-GLY7-HJQ8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:97",
+        "model": "MR46"
+    },
+    "Q3AC-UXRS-4MF7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:9a",
+        "model": "MR46"
+    },
+    "Q3AC-X5XA-XZ6Y": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:9e",
+        "model": "MR46"
+    },
+    "Q3AC-HHRW-FCJS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:f4",
+        "model": "MR46"
+    },
+    "Q3AC-RSKZ-MSSN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:8a",
+        "model": "MR46"
+    },
+    "Q3AC-P8QF-QC9D": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:8c",
+        "model": "MR46"
+    },
+    "Q3AC-QFAM-TA7X": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:93",
+        "model": "MR46"
+    },
+    "Q3AC-NKJE-P2GB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:96",
+        "model": "MR46"
+    },
+    "Q3AC-V69A-LBWM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:90",
+        "model": "MR46"
+    },
+    "Q3AC-JSSM-ND9U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a2",
+        "model": "MR46"
+    },
+    "Q3AC-9MZE-586V": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c4",
+        "model": "MR46"
+    },
+    "Q3AC-XUKK-U6PA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1f",
+        "model": "MR46"
+    },
+    "Q3AC-BPCY-U2ZA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:c9",
+        "model": "MR46"
+    },
+    "Q3AC-M7RY-39VN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:5f:fd",
+        "model": "MR46"
+    },
+    "Q3AC-PXBU-SNJP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:62:9e",
+        "model": "MR46"
+    },
+    "Q3AC-FQQ3-ZE7G": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:27",
+        "model": "MR46"
+    },
+    "Q3AC-P6VJ-RYL5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:46",
+        "model": "MR46"
+    },
+    "Q3AC-J8SD-7RER": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:4a",
+        "model": "MR46"
+    },
+    "Q3AC-4TFH-UAEQ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:70",
+        "model": "MR46"
+    },
+    "Q3AC-PD3D-BGGU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:7d",
+        "model": "MR46"
+    },
+    "Q3AC-JKZP-XNKM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:99",
+        "model": "MR46"
+    },
+    "Q3AC-XHVT-XFL4": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9b",
+        "model": "MR46"
+    },
+    "Q3AC-NVZQ-XGTJ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b8",
+        "model": "MR46"
+    },
+    "Q3AC-M4N8-2R7N": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d7",
+        "model": "MR46"
+    },
+    "Q3AC-7X62-YVVT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e1",
+        "model": "MR46"
+    },
+    "Q3AC-U4MW-CYEZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:fa",
+        "model": "MR46"
+    },
+    "Q3AC-QRH2-5TM5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:fe",
+        "model": "MR46"
+    },
+    "Q3AC-LMXS-74PX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:9d",
+        "model": "MR46"
+    },
+    "Q3AC-JUNS-5A8K": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:30",
+        "model": "MR46"
+    },
+    "Q3AC-4HU2-DP2G": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:ad",
+        "model": "MR46"
+    },
+    "Q3AC-C93M-JLPB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:37",
+        "model": "MR46"
+    },
+    "Q3AC-5BHN-C9N2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:47",
+        "model": "MR46"
+    },
+    "Q3AC-DP8Y-58UK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:50",
+        "model": "MR46"
+    },
+    "Q3AC-4QBE-JJUT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:de",
+        "model": "MR46"
+    },
+    "Q3AC-TYAX-JNYD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:ec",
+        "model": "MR46"
+    },
+    "Q3AC-5F27-VLXR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:ee",
+        "model": "MR46"
+    },
+    "Q3AC-4HUT-ANFU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:f2",
+        "model": "MR46"
+    },
+    "Q3AC-EVZ5-Q6YY": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:b3",
+        "model": "MR46"
+    },
+    "Q3AC-X2HS-PP2E": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:53",
+        "model": "MR46"
+    },
+    "Q3AC-HN9G-HJP4": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:cb",
+        "model": "MR46"
+    },
+    "Q3AC-ZHD5-YTTD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d6",
+        "model": "MR46"
+    },
+    "Q3AC-BLZ6-R7Q5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e4",
+        "model": "MR46"
+    },
+    "Q3AC-999N-K93Y": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:02",
+        "model": "MR46"
+    },
+    "Q3AC-6AJM-J3QG": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:61:d5",
+        "model": "MR46"
+    },
+    "Q3AC-VAQ9-GXJA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:77",
+        "model": "MR46"
+    },
+    "Q3AC-SSU6-3KGE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:92",
+        "model": "MR46"
+    },
+    "Q3AC-P2AN-SWQ6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:95",
+        "model": "MR46"
+    },
+    "Q3AC-SFBC-XLBN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9f",
+        "model": "MR46"
+    },
+    "Q3AC-AWNM-RFDP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a6",
+        "model": "MR46"
+    },
+    "Q3AC-LBK5-56JU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b1",
+        "model": "MR46"
+    },
+    "Q3AC-3EDE-EJKQ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b4",
+        "model": "MR46"
+    },
+    "Q3AC-CYX4-ASMT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b5",
+        "model": "MR46"
+    },
+    "Q3AC-T79G-M3FK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:bf",
+        "model": "MR46"
+    },
+    "Q3AC-BMW2-KPFD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c9",
+        "model": "MR46"
+    },
+    "Q3AC-UT4S-VATR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:f7",
+        "model": "MR46"
+    },
+    "Q3AC-8A65-T33J": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:ce",
+        "model": "MR46"
+    },
+    "Q3AC-2R9W-54K9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:bb",
+        "model": "MR46"
+    },
+    "Q3AC-L878-BRM8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d8",
+        "model": "MR46"
+    },
+    "Q3AC-FSTT-EK24": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0e",
+        "model": "MR46"
+    },
+    "Q3AC-ZZER-QZ82": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b0",
+        "model": "MR46"
+    },
+    "Q3AC-KQ9X-2NT8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d0",
+        "model": "MR46"
+    },
+    "Q3AC-7QVR-PXNU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0c",
+        "model": "MR46"
+    },
+    "Q3AC-4H7M-5ZMR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0d",
+        "model": "MR46"
+    },
+    "Q3AC-4RLJ-CCTW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:0f",
+        "model": "MR46"
+    },
+    "Q3AC-UKTU-9MB3": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:15",
+        "model": "MR46"
+    },
+    "Q3AC-BRNT-TZ74": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1a",
+        "model": "MR46"
+    },
+    "Q3AC-QMHG-UK8T": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:a2",
+        "model": "MR46"
+    },
+    "Q3AC-8KRW-GVSD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:10",
+        "model": "MR46"
+    },
+    "Q3AC-638Q-EHF9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:58",
+        "model": "MR46"
+    },
+    "Q3AC-VZ79-WMB2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:60",
+        "model": "MR46"
+    },
+    "Q3AC-BCZU-SWQC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:70",
+        "model": "MR46"
+    },
+    "Q3AC-4ME3-RA7E": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:7c",
+        "model": "MR46"
+    },
+    "Q3AC-WZMQ-4FL8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:60:83",
+        "model": "MR46"
+    },
+    "Q3AC-NZGD-N2DB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:6f",
+        "model": "MR46"
+    },
+    "Q3AC-BF83-34YA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:84",
+        "model": "MR46"
+    },
+    "Q3AC-XMEU-QUJ5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:87",
+        "model": "MR46"
+    },
+    "Q3AC-TECU-VK9Y": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:8b",
+        "model": "MR46"
+    },
+    "Q3AC-GBRE-4VYR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:91",
+        "model": "MR46"
+    },
+    "Q3AC-QU3H-6AUS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9d",
+        "model": "MR46"
+    },
+    "Q3AC-PSRZ-M6YN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9e",
+        "model": "MR46"
+    },
+    "Q3AC-DAQ2-7YC4": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a3",
+        "model": "MR46"
+    },
+    "Q3AC-87AW-ET2B": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a5",
+        "model": "MR46"
+    },
+    "Q3AC-7CQL-59BF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:a8",
+        "model": "MR46"
+    },
+    "Q3AC-PDZE-V483": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:aa",
+        "model": "MR46"
+    },
+    "Q3AC-SRCV-C8MM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ae",
+        "model": "MR46"
+    },
+    "Q3AC-F379-DM9Y": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b3",
+        "model": "MR46"
+    },
+    "Q3AC-P57R-26KK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c0",
+        "model": "MR46"
+    },
+    "Q3AC-V9JK-WJCA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c1",
+        "model": "MR46"
+    },
+    "Q3AC-5GHH-7DGF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:c3",
+        "model": "MR46"
+    },
+    "Q3AC-M97W-5X8Y": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:fb",
+        "model": "MR46"
+    },
+    "Q3AC-L5CA-VV4P": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:fd",
+        "model": "MR46"
+    },
+    "Q3AC-Y4U9-HXT6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:00",
+        "model": "MR46"
+    },
+    "Q3AC-W3QT-QZF3": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:01",
+        "model": "MR46"
+    },
+    "Q3AC-3YLQ-PQBB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:03",
+        "model": "MR46"
+    },
+    "Q3AC-P34R-ZPWH": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:07",
+        "model": "MR46"
+    },
+    "Q3AC-WZAA-EBE6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:12",
+        "model": "MR46"
+    },
+    "Q3AC-GPD7-H8AV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:13",
+        "model": "MR46"
+    },
+    "Q3AC-GLQN-F3ME": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:17",
+        "model": "MR46"
+    },
+    "Q3AC-MK3H-EK5M": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1b",
+        "model": "MR46"
+    },
+    "Q3AC-9N6B-SAW2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1c",
+        "model": "MR46"
+    },
+    "Q3AC-YBPB-V2AW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1d",
+        "model": "MR46"
+    },
+    "Q3AC-XD54-DNYJ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:1e",
+        "model": "MR46"
+    },
+    "Q3AC-JDBA-92KL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:20",
+        "model": "MR46"
+    },
+    "Q3AC-87NP-VCYA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:21",
+        "model": "MR46"
+    },
+    "Q3AC-BLZV-UA5W": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:64:23",
+        "model": "MR46"
+    },
+    "Q3AC-WW46-3XQ6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:5a",
+        "model": "MR46"
+    },
+    "Q3AC-DNE9-G3YY": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:6f",
+        "model": "MR46"
+    },
+    "Q3AC-ZAVN-9F9Q": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:a3",
+        "model": "MR46"
+    },
+    "Q3AC-TCAJ-8F3M": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:67:cd",
+        "model": "MR46"
+    },
+    "Q3AC-TFVD-S97Z": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:2b",
+        "model": "MR46"
+    },
+    "Q3AC-MXDY-5YKU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:2e",
+        "model": "MR46"
+    },
+    "Q3AC-DVDP-WWX9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:36",
+        "model": "MR46"
+    },
+    "Q3AC-BXZV-CBDR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:69:3e",
+        "model": "MR46"
+    },
+    "Q3AC-UYB2-XZN5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6a:2e",
+        "model": "MR46"
+    },
+    "Q3AC-5TS3-6SW7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:a3",
+        "model": "MR46"
+    },
+    "Q3AC-VYNH-URLT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6c:ad",
+        "model": "MR46"
+    },
+    "Q3AC-SH3H-HMDM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:3b",
+        "model": "MR46"
+    },
+    "Q3AC-TB4G-LBBB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:3e",
+        "model": "MR46"
+    },
+    "Q3AC-5WVT-HK42": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:40",
+        "model": "MR46"
+    },
+    "Q3AC-3Z7F-YC2U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:a7",
+        "model": "MR46"
+    },
+    "Q3AC-JK49-8X8F": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:a8",
+        "model": "MR46"
+    },
+    "Q3AC-LTH5-A63J": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:6e:ac",
+        "model": "MR46"
+    },
+    "Q3AC-LA82-JKUV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:71:e1",
+        "model": "MR46"
+    },
+    "Q3AC-F3BR-JYN9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:76",
+        "model": "MR46"
+    },
+    "Q3AC-GSL9-SZQS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:86",
+        "model": "MR46"
+    },
+    "Q3AC-2W6R-46CL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:8f",
+        "model": "MR46"
+    },
+    "Q3AC-ZS72-LH6S": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:9a",
+        "model": "MR46"
+    },
+    "Q3AC-B874-XF3B": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ab",
+        "model": "MR46"
+    },
+    "Q3AC-HCN4-4VHD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:b9",
+        "model": "MR46"
+    },
+    "Q3AC-8C2J-KKGK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ba",
+        "model": "MR46"
+    },
+    "Q3AC-P755-PJD7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:be",
+        "model": "MR46"
+    },
+    "Q3AC-L2KQ-N5EX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d3",
+        "model": "MR46"
+    },
+    "Q3AC-TCQN-GAFR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:d9",
+        "model": "MR46"
+    },
+    "Q3AC-TCSE-WFBF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:dc",
+        "model": "MR46"
+    },
+    "Q3AC-4BZC-B78N": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:de",
+        "model": "MR46"
+    },
+    "Q3AC-Z9SL-5AU9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:df",
+        "model": "MR46"
+    },
+    "Q3AC-Y5P6-9FUU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e0",
+        "model": "MR46"
+    },
+    "Q3AC-DHBV-RV6Z": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e2",
+        "model": "MR46"
+    },
+    "Q3AC-D7CB-SKA7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e6",
+        "model": "MR46"
+    },
+    "Q3AC-ZJ3N-YULW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:e8",
+        "model": "MR46"
+    },
+    "Q3AC-CV7B-ZX2T": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ea",
+        "model": "MR46"
+    },
+    "Q3AC-G4GC-4VYV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ed",
+        "model": "MR46"
+    },
+    "Q3AC-9BRQ-QCPT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:ee",
+        "model": "MR46"
+    },
+    "Q3AC-JYSK-PKLX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:80:63:f2",
+        "model": "MR46"
+    },
+    "Q3AB-5HV7-NXXE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:f2:c8:dd",
+        "model": "MR56"
+    },
+    "Q3AB-WL5T-YM82": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:f2:c8:de",
+        "model": "MR56"
+    },
+    "Q3AB-4HZJ-6GDA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:f2:c9:0e",
+        "model": "MR56"
+    },
+    "Q3AD-UBEE-YA9K": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:c1",
+        "model": "MR46E"
+    },
+    "Q3AD-6JBH-W78Z": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:bc",
+        "model": "MR46E"
+    },
+    "Q3AD-SNSC-575F": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:28",
+        "model": "MR46E"
+    },
+    "Q3AD-JW5A-KDB9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:8a",
+        "model": "MR46E"
+    },
+    "Q3AD-7T3C-B7J5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:8c",
+        "model": "MR46E"
+    },
+    "Q3AD-9WF9-ZJ4U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:94",
+        "model": "MR46E"
+    },
+    "Q3AD-VTXQ-9PES": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:9a",
+        "model": "MR46E"
+    },
+    "Q3AD-UPZ2-CKRT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:af",
+        "model": "MR46E"
+    },
+    "Q3AD-WA4W-9U7H": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:b0",
+        "model": "MR46E"
+    },
+    "Q3AD-S4YW-6UKF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:c1",
+        "model": "MR46E"
+    },
+    "Q3AD-Y5E5-KDLC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:d2",
+        "model": "MR46E"
+    },
+    "Q3AD-BRSC-XRLR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:f8",
+        "model": "MR46E"
+    },
+    "Q3AD-JGYU-HU3W": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:04",
+        "model": "MR46E"
+    },
+    "Q3AD-EKM8-6XTC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:14",
+        "model": "MR46E"
+    },
+    "Q3AD-3DS4-5DZE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:2c",
+        "model": "MR46E"
+    },
+    "Q3AD-8MJD-CZJV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:4c",
+        "model": "MR46E"
+    },
+    "Q3AD-GMQX-KA58": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:62",
+        "model": "MR46E"
+    },
+    "Q3AD-5FK6-BZDX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:64",
+        "model": "MR46E"
+    },
+    "Q3AD-Z4ZF-5JER": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:67",
+        "model": "MR46E"
+    },
+    "Q3AD-KTJX-JE25": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:98",
+        "model": "MR46E"
+    },
+    "Q3AD-GUQ4-32PG": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:a4",
+        "model": "MR46E"
+    },
+    "Q3AD-KCQ7-JJZD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:c2",
+        "model": "MR46E"
+    },
+    "Q3AD-BQ6Z-FDFC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:c6",
+        "model": "MR46E"
+    },
+    "Q3AD-CQ2N-3GTX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:a7",
+        "model": "MR46E"
+    },
+    "Q3AD-TK7C-XWZC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fc:8b",
+        "model": "MR46E"
+    },
+    "Q3AD-DH66-QG3C": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:82",
+        "model": "MR46E"
+    },
+    "Q3AD-7P5J-4JBR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:87",
+        "model": "MR46E"
+    },
+    "Q3AD-DTVE-T66F": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:99",
+        "model": "MR46E"
+    },
+    "Q3AD-D5L4-CB4X": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:51",
+        "model": "MR46E"
+    },
+    "Q3AD-S6FA-DNEP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:43",
+        "model": "MR46E"
+    },
+    "Q3AD-5233-V6AJ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:b6",
+        "model": "MR46E"
+    },
+    "Q3AD-2E4F-7ZVT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:4c",
+        "model": "MR46E"
+    },
+    "Q3AD-AJ5G-B3CR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:a9",
+        "model": "MR46E"
+    },
+    "Q3AD-KCDU-K6VR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fd:b6",
+        "model": "MR46E"
+    },
+    "Q3AD-CTZB-W5JG": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1d:fe:2b",
+        "model": "MR46E"
+    },
+    "Q3AD-ANKR-VJNC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:2f",
+        "model": "MR46E"
+    },
+    "Q3AD-36XL-3CBF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "a8:46:9d:1e:10:ab",
+        "model": "MR46E"
+    },
+    "Q3AE-UVFP-MPKV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:ac",
+        "model": "MR86"
+    },
+    "Q3AE-5FZL-28SS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:ae",
+        "model": "MR86"
+    },
+    "Q3AE-QHJR-Q2YV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:af",
+        "model": "MR86"
+    },
+    "Q3AE-2F3D-WUZB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b1",
+        "model": "MR86"
+    },
+    "Q3AE-CJ68-35JP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b2",
+        "model": "MR86"
+    },
+    "Q3AE-MLZJ-XK5R": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b3",
+        "model": "MR86"
+    },
+    "Q3AE-CB36-MF6W": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b4",
+        "model": "MR86"
+    },
+    "Q3AE-YF63-3ZNU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b6",
+        "model": "MR86"
+    },
+    "Q3AE-35EK-NPNL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b7",
+        "model": "MR86"
+    },
+    "Q3AE-WNZU-7SCT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b8",
+        "model": "MR86"
+    },
+    "Q3AE-8RTH-7JJX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:b9",
+        "model": "MR86"
+    },
+    "Q3AE-NPY2-LT4U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:ba",
+        "model": "MR86"
+    },
+    "Q3AE-MPVD-4TR9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:bc",
+        "model": "MR86"
+    },
+    "Q3AE-WKZ5-572N": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:c1",
+        "model": "MR86"
+    },
+    "Q3AE-TYDX-Q9VE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:cd",
+        "model": "MR86"
+    },
+    "Q3AE-Y6X9-8RJ6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:ce",
+        "model": "MR86"
+    },
+    "Q3AE-9Y9R-8G2A": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d0",
+        "model": "MR86"
+    },
+    "Q3AE-GQJ4-37JU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d1",
+        "model": "MR86"
+    },
+    "Q3AE-89WL-DJYY": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d4",
+        "model": "MR86"
+    },
+    "Q3AE-VB77-AE4E": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d6",
+        "model": "MR86"
+    },
+    "Q3AE-EBU8-Y4AA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d7",
+        "model": "MR86"
+    },
+    "Q3AE-X6DB-UVBX": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:d8",
+        "model": "MR86"
+    },
+    "Q3AE-8TNJ-SN9G": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:da",
+        "model": "MR86"
+    },
+    "Q3AE-3U9X-98BC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:dc",
+        "model": "MR86"
+    },
+    "Q3AE-DGC9-2AXZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:de",
+        "model": "MR86"
+    },
+    "Q3AE-YA9Y-LY3M": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:aa",
+        "model": "MR86"
+    },
+    "Q3AE-CN8G-4B9U": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:a9",
+        "model": "MR86"
+    },
+    "Q3AE-32X8-KKXH": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:81:ac:ab",
+        "model": "MR86"
+    },
+    "Q2DW-ZG6T-RN9K": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "68:3a:1e:89:8d:62",
+        "model": "MS425-32"
+    },
+    "Q2DW-48KR-99D3": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "68:3a:1e:89:a6:78",
+        "model": "MS425-32"
+    },
+    "Q2DW-2PNA-EV3F": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "68:3a:1e:89:5e:2e",
+        "model": "MS425-32"
+    },
+    "Q2DW-AWBQ-473K": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "68:3a:1e:89:78:9a",
+        "model": "MS425-32"
+    },
+    "Q4AA-X9VV-4PZ8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "cc:9c:3e:6c:c9:47",
+        "model": "MS120-8"
+    },
+    "Q2AY-7K99-WH5E": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:d0:a6",
+        "model": "MS355-24X"
+    },
+    "Q2AY-7NHV-PQ3A": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:bd:71",
+        "model": "MS355-24X"
+    },
+    "Q2AY-CDJD-NM2P": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c0:aa",
+        "model": "MS355-24X"
+    },
+    "Q2AY-L7H8-R8R2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c6:35",
+        "model": "MS355-24X"
+    },
+    "Q2AY-HQYL-UVHZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c4:46",
+        "model": "MS355-24X"
+    },
+    "Q2AY-9NQA-PGXT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:be:79",
+        "model": "MS355-24X"
+    },
+    "Q2AY-CG3F-5R42": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c0:ec",
+        "model": "MS355-24X"
+    },
+    "Q2AY-KCEU-YX5F": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c5:90",
+        "model": "MS355-24X"
+    },
+    "Q2AY-P2R6-8BBM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c7:1c",
+        "model": "MS355-24X"
+    },
+    "Q2AY-8DZ5-LFZS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:bd:f5",
+        "model": "MS355-24X"
+    },
+    "Q2AY-6UZ7-BAMP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:bc:cc",
+        "model": "MS355-24X"
+    },
+    "Q2AY-MZ49-MXLA": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:db:17",
+        "model": "MS355-24X"
+    },
+    "Q2AY-Q9J9-5C88": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:dd:06",
+        "model": "MS355-24X"
+    },
+    "Q2AY-CM5G-YYZ5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:d4:a5",
+        "model": "MS355-24X"
+    },
+    "Q2AY-96L8-JV4D": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:e7:35",
+        "model": "MS355-24X"
+    },
+    "Q2AY-Q2KM-WT8H": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c8:03",
+        "model": "MS355-24X"
+    },
+    "Q2AY-SJFJ-4RVD": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:dd:cc",
+        "model": "MS355-24X"
+    },
+    "Q2AY-59QR-VERK": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:bb:82",
+        "model": "MS355-24X"
+    },
+    "Q2AY-2E4Z-WCGW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:b9:b4",
+        "model": "MS355-24X"
+    },
+    "Q2AY-DQJX-FFQE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:d5:8c",
+        "model": "MS355-24X"
+    },
+    "Q2AY-29EX-PTSZ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:b9:72",
+        "model": "MS355-24X"
+    },
+    "Q2AY-J3NV-MFPM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c4:88",
+        "model": "MS355-24X"
+    },
+    "Q2AY-SAQ6-XGWU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:1a:04:fc",
+        "model": "MS355-24X"
+    },
+    "Q2AY-5GCS-VLBB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:bb:c4",
+        "model": "MS355-24X"
+    },
+    "Q2AY-VVFU-TYQL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:cc:23",
+        "model": "MS355-24X"
+    },
+    "Q2AY-PSP2-C75V": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:b8:ac",
+        "model": "MS355-24X"
+    },
+    "Q2AY-RYWG-2P97": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c8:ea",
+        "model": "MS355-24X"
+    },
+    "Q2AY-CJTE-6MRV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "98:18:88:19:c1:0d",
+        "model": "MS355-24X"
+    },
+    "Q2CY-Q8KJ-75CT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:a1:01",
+        "model": "MS355-48X"
+    },
+    "Q2CY-92J4-26AR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:b0:fd",
+        "model": "MS355-48X"
+    },
+    "Q2CY-EDBX-EFRS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:b3:70",
+        "model": "MS355-48X"
+    },
+    "Q2CY-VHGB-E6CF": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:bc:1f",
+        "model": "MS355-48X"
+    },
+    "Q2CY-ZW3L-ANCT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:be:59",
+        "model": "MS355-48X"
+    },
+    "Q2CY-RT9L-DLWV": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:dc:da",
+        "model": "MS355-48X"
+    },
+    "Q2CY-VVMJ-K6Z3": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:df:bf",
+        "model": "MS355-48X"
+    },
+    "Q2CY-YEZL-SDCW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:e1:4e",
+        "model": "MS355-48X"
+    },
+    "Q2CY-HLDN-UANL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:ea:36",
+        "model": "MS355-48X"
+    },
+    "Q2CY-ZF9T-XX79": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:f3:57",
+        "model": "MS355-48X"
+    },
+    "Q2CY-DGB9-Q5FT": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c6:15:a1",
+        "model": "MS355-48X"
+    },
+    "Q2CY-HTUM-Y2B2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:8d:30",
+        "model": "MS355-48X"
+    },
+    "Q2CY-E55T-RKNP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:a9:77",
+        "model": "MS355-48X"
+    },
+    "Q2CY-WH6R-EL49": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:f2:3a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-MM2W-5JDN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:ab:78",
+        "model": "MS355-48X"
+    },
+    "Q2CY-5J8F-VQW9": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:8b:23",
+        "model": "MS355-48X"
+    },
+    "Q2CY-7J5F-GYKW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:9f:2d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-B7MG-3BV2": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:b1:a8",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UM6Z-HVBE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:f1:1d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-LGBP-S3UM": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c6:2a:1d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-D2SU-79TR": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:76:08",
+        "model": "MS355-48X"
+    },
+    "Q2CY-235P-A69J": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:ac:c2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-4DVF-AZJP": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c6:10:bb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-Y2YC-BZPL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:a5:3c",
+        "model": "MS355-48X"
+    },
+    "Q2CY-6LQT-9GU5": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:d2:d5",
+        "model": "MS355-48X"
+    },
+    "Q2CY-FPNQ-CXMS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:f8:04",
+        "model": "MS355-48X"
+    },
+    "Q2CY-EF9N-XMH7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:b3:a9",
+        "model": "MS355-48X"
+    },
+    "Q2CY-2BNU-SRCU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:bf:04",
+        "model": "MS355-48X"
+    },
+    "Q2CY-3QUQ-5JJE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:d1:0d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-A9ZE-BQ54": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:d3:f2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-R57L-L2UU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:ef:c7",
+        "model": "MS355-48X"
+    },
+    "Q2CY-4H37-QP2G": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:f4:e6",
+        "model": "MS355-48X"
+    },
+    "Q2CY-AKHH-99MW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:8d:5d",
+        "model": "MS355-48X"
+    },
+    "Q2CY-SCKV-ZECC": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:cb:ee",
+        "model": "MS355-48X"
+    },
+    "Q2CY-CNL7-RAUJ": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:d4:d6",
+        "model": "MS355-48X"
+    },
+    "Q2CY-BKLP-LAQB": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:9a:1a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-EGZ4-53FU": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:9c:1b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-GLZV-URH6": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:c5:eb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-P387-47CE": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:ee:38",
+        "model": "MS355-48X"
+    },
+    "Q2CY-BAEJ-Y3C8": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:99:e1",
+        "model": "MS355-48X"
+    },
+    "Q2CY-CBHH-QEMW": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:8f:d0",
+        "model": "MS355-48X"
+    },
+    "Q2CY-UMDX-RYEL": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:cc:d2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-X5XK-A4AY": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:ce:9a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-7AZ8-N44S": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:97:e0",
+        "model": "MS355-48X"
+    },
+    "Q2CY-ZSXB-BEF7": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c5:e1:f9",
+        "model": "MS355-48X"
+    },
+    "Q2CY-FHD8-SDJN": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "2c:3f:0b:c6:27:38",
+        "model": "MS355-48X"
+    },
+    "Q2CY-DB87-2ZVS": {
+        "network": "SRV-IE1-Ireland",
+        "networkId": "L_772367336094041472",
+        "timeZone": "Europe/Dublin",
+        "mac": "f8:9e:28:78:64:71",
+        "model": "MS355-48X"
+    },
+    "Q3AC-95YC-SSWP": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:d9",
+        "model": "MR46"
+    },
+    "Q3AC-6H25-CEVE": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:ca",
+        "model": "MR46"
+    },
+    "Q3AC-2LM4-UNAH": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e0:f0",
+        "model": "MR46"
+    },
+    "Q3AC-DQQT-5RG8": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:aa",
+        "model": "MR46"
+    },
+    "Q3AC-QDZF-R7S6": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:fc",
+        "model": "MR46"
+    },
+    "Q3AC-YJ5F-8UDR": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:eb:54",
+        "model": "MR46"
+    },
+    "Q3AC-LME2-8WKQ": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:05",
+        "model": "MR46"
+    },
+    "Q3AC-3HQG-5HWP": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:2b",
+        "model": "MR46"
+    },
+    "Q3AC-FQWT-2SCB": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:b5",
+        "model": "MR46"
+    },
+    "Q3AC-LQFV-5H22": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:06",
+        "model": "MR46"
+    },
+    "Q3AC-YGF4-XY3X": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:1d",
+        "model": "MR46"
+    },
+    "Q3AC-29X6-CZEE": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:0b",
+        "model": "MR46"
+    },
+    "Q3AC-ZSYV-PV8W": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e0:ee",
+        "model": "MR46"
+    },
+    "Q3AC-VXN4-9NFQ": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:d7",
+        "model": "MR46"
+    },
+    "Q3AC-W3L6-NER4": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:d5",
+        "model": "MR46"
+    },
+    "Q3AC-FAWK-FBY9": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:d4",
+        "model": "MR46"
+    },
+    "Q3AC-BPLT-V6VL": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:dc",
+        "model": "MR46"
+    },
+    "Q3AC-2Y3V-LZ88": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:c8",
+        "model": "MR46"
+    },
+    "Q3AC-SW39-MCYZ": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:3f",
+        "model": "MR46"
+    },
+    "Q3AC-68AL-HMQB": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:bf",
+        "model": "MR46"
+    },
+    "Q3AC-WKHP-WSG7": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e8:27",
+        "model": "MR46"
+    },
+    "Q3AC-EBLQ-JE38": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:eb:f8",
+        "model": "MR46"
+    },
+    "Q3AC-JBQ6-3UYH": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e3:ec",
+        "model": "MR46"
+    },
+    "Q3AC-YJSM-CDG9": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:e0",
+        "model": "MR46"
+    },
+    "Q3AC-TE4Z-6W35": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:c4",
+        "model": "MR46"
+    },
+    "Q3AC-HYAQ-UJ36": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:c2",
+        "model": "MR46"
+    },
+    "Q3AC-US3F-RAXB": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:7f:e7:3b",
+        "model": "MR46"
+    },
+    "Q2DW-A5F5-TX2L": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:dd:0e:50",
+        "model": "MS425-32"
+    },
+    "Q2DW-2LEL-H87W": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:dd:3a:b2",
+        "model": "MS425-32"
+    },
+    "Q2DW-NQC3-AU6S": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:e8:3b:e4",
+        "model": "MS425-32"
+    },
+    "Q2DW-F754-8GMU": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:e8:15:72",
+        "model": "MS425-32"
+    },
+    "Q2CY-T7GB-BZM9": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:a6:2b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-XEW4-WF52": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:79:3a:6a",
+        "model": "MS355-48X"
+    },
+    "Q2CY-KQ2T-655P": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:9e:60",
+        "model": "MS355-48X"
+    },
+    "Q2CY-6QUH-9NJR": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:b3:87",
+        "model": "MS355-48X"
+    },
+    "Q2CY-TL3E-QUNP": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:78:ca:32",
+        "model": "MS355-48X"
+    },
+    "Q2CY-ZXFX-ZBGB": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:d0:b2",
+        "model": "MS355-48X"
+    },
+    "Q2CY-PD9V-XZSW": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:79:31:49",
+        "model": "MS355-48X"
+    },
+    "Q2CY-6T66-5F2L": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:b3:c0",
+        "model": "MS355-48X"
+    },
+    "Q2CY-FD4V-QVSH": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:79:05:33",
+        "model": "MS355-48X"
+    },
+    "Q2CY-L6TM-FVCC": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "f8:9e:28:79:0a:c4",
+        "model": "MS355-48X"
+    },
+    "Q2CY-BUYD-NA5X": {
+        "network": "SRV-US3-United_States",
+        "networkId": "L_772367336094041670",
+        "timeZone": "US/East-Indiana",
+        "mac": "a8:46:9d:1e:b9:c3",
+        "model": "MS355-48X"
+    },
+    "Q3AC-MKA9-UQR6": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:cc",
+        "model": "MR46"
+    },
+    "Q3AC-FZH5-NC8N": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:cf",
+        "model": "MR46"
+    },
+    "Q3AC-Q89J-FCHG": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:de",
+        "model": "MR46"
+    },
+    "Q3AC-U2LM-PSG9": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:e5",
+        "model": "MR46"
+    },
+    "Q3AC-DBZT-7723": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:b0",
+        "model": "MR46"
+    },
+    "Q3AC-MNG5-B5JD": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:b8",
+        "model": "MR46"
+    },
+    "Q3AC-VDFJ-VD8P": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:c2",
+        "model": "MR46"
+    },
+    "Q3AC-HZLN-276Y": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:c3",
+        "model": "MR46"
+    },
+    "Q3AC-CNU9-SFHV": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:c6",
+        "model": "MR46"
+    },
+    "Q3AC-F6JV-V9KQ": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1d:20:c9",
+        "model": "MR46"
+    },
+    "Q3AB-SRYQ-JS3J": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "f8:9e:28:d0:f6:ce",
+        "model": "MR56"
+    },
+    "Q3AB-SUQS-MZ2J": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1b:d8:45",
+        "model": "MR56"
+    },
+    "Q3AB-J48J-DJPC": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1b:dc:59",
+        "model": "MR56"
+    },
+    "Q3AB-R3HN-QJWL": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1b:dd:c3",
+        "model": "MR56"
+    },
+    "Q3AB-LLWN-YL6P": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "f8:9e:28:d0:f6:50",
+        "model": "MR56"
+    },
+    "Q3AB-UQCZ-6C6L": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:1b:d7:f0",
+        "model": "MR56"
+    },
+    "Q2CY-NNNG-2XXY": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:c0:d3:bb",
+        "model": "MS355-48X"
+    },
+    "Q2CY-RJDX-W6K6": {
+        "network": "SRV-VN1-Vietnam",
+        "networkId": "L_772367336094041708",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "mac": "a8:46:9d:c0:fa:b2",
+        "model": "MS355-48X"
+    },
+    "Q3AC-SGEJ-66JH": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3e:81",
+        "model": "MR46"
+    },
+    "Q3AC-2H3U-JPWP": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3e:14",
+        "model": "MR46"
+    },
+    "Q3AC-F6Y7-H9J3": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3e:10",
+        "model": "MR46"
+    },
+    "Q3AC-GPZK-GK3D": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:8f",
+        "model": "MR46"
+    },
+    "Q3AC-MZKY-LBPV": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:71",
+        "model": "MR46"
+    },
+    "Q3AC-Y2F3-8L8X": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:66",
+        "model": "MR46"
+    },
+    "Q3AC-VM2E-MHZ8": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:68",
+        "model": "MR46"
+    },
+    "Q3AC-8T77-U76K": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:de",
+        "model": "MR46"
+    },
+    "Q3AC-5KDK-Z7GT": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:e8",
+        "model": "MR46"
+    },
+    "Q3AC-YSN9-P5U5": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:43:14",
+        "model": "MR46"
+    },
+    "Q3AC-JF3G-E38Y": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:61",
+        "model": "MR46"
+    },
+    "Q3AC-W9C5-UR8C": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:65",
+        "model": "MR46"
+    },
+    "Q3AC-ZF64-B78N": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:42:2c",
+        "model": "MR46"
+    },
+    "Q3AC-TRMV-X9UY": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3d:dd",
+        "model": "MR46"
+    },
+    "Q3AC-8XD6-94XB": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1c:3e:13",
+        "model": "MR46"
+    },
+    "Q3AB-YEWT-SC5Q": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:44:0c",
+        "model": "MR56"
+    },
+    "Q3AB-82VU-PWWR": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:43:a4",
+        "model": "MR56"
+    },
+    "Q3AB-QGKC-PFYR": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:44:0d",
+        "model": "MR56"
+    },
+    "Q3AB-2S5W-5LZD": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:44:75",
+        "model": "MR56"
+    },
+    "Q3AB-3GHS-8LQD": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:43:a7",
+        "model": "MR56"
+    },
+    "Q3AB-RY82-H62P": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:43:ab",
+        "model": "MR56"
+    },
+    "Q3AB-9BX4-SB2A": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:1b:43:ae",
+        "model": "MR56"
+    },
+    "Q2CY-8LJE-7NQA": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:bf:b9:d9",
+        "model": "MS355-48X"
+    },
+    "Q2CY-Z27A-GVRB": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:bf:f3:bd",
+        "model": "MS355-48X"
+    },
+    "Q2CY-HY8S-CKMY": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:bf:e5:44",
+        "model": "MS355-48X"
+    },
+    "Q2CY-LNKF-M9PN": {
+        "network": "SRV-EG1-Egypt",
+        "networkId": "L_772367336094041715",
+        "timeZone": "Egypt",
+        "mac": "a8:46:9d:bf:c6:8a",
+        "model": "MS355-48X"
+    },
+    "Q2AY-EUR9-CC3Q": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "98:18:88:1a:4e:55",
+        "model": "MS355-24X"
+    },
+    "Q2AY-SYUL-MEZQ": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "98:18:88:1a:2c:0b",
+        "model": "MS355-24X"
+    },
+    "Q3AC-BMXF-EXK2": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "a8:46:9d:1c:c3:a7",
+        "model": "MR46"
+    },
+    "Q3AC-26Z4-7YNK": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "a8:46:9d:1c:c3:aa",
+        "model": "MR46"
+    },
+    "Q3AC-B3AB-QXT6": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "a8:46:9d:1c:c4:27",
+        "model": "MR46"
+    },
+    "Q3AB-M3XN-92K4": {
+        "network": "SRV-PE1-Peru",
+        "networkId": "L_772367336094041718",
+        "timeZone": "America/Lima",
+        "mac": "a8:46:9d:1b:aa:87",
+        "model": "MR56"
+    },
+    "Q3AC-JD32-6VLK": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:ab",
+        "model": "MR46"
+    },
+    "Q3AC-7WPF-DULG": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fa:a2",
+        "model": "MR46"
+    },
+    "Q3AC-ZRCV-GG7N": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fb:36",
+        "model": "MR46"
+    },
+    "Q3AC-ANLY-E7DP": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:6e",
+        "model": "MR46"
+    },
+    "Q3AC-YH2F-HE44": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:b0",
+        "model": "MR46"
+    },
+    "Q3AC-VYGH-3L8V": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:ee",
+        "model": "MR46"
+    },
+    "Q3AC-HUZ8-XN29": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fb:2c",
+        "model": "MR46"
+    },
+    "Q3AC-N2KU-EVT9": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:77",
+        "model": "MR46"
+    },
+    "Q3AC-5ZYE-PGTP": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fa:ba",
+        "model": "MR46"
+    },
+    "Q3AC-W4AJ-5RDB": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:6f",
+        "model": "MR46"
+    },
+    "Q3AC-TTL5-QLRX": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fa:8d",
+        "model": "MR46"
+    },
+    "Q3AC-8V34-28GA": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1d:40:74",
+        "model": "MR46"
+    },
+    "Q3AC-R2S7-3VYU": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fb:48",
+        "model": "MR46"
+    },
+    "Q3AC-KAPV-9Z4X": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1c:fb:4a",
+        "model": "MR46"
+    },
+    "Q3AB-WH3E-6QXB": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1b:d0:72",
+        "model": "MR56"
+    },
+    "Q3AB-GMS8-LM4W": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1b:d0:be",
+        "model": "MR56"
+    },
+    "Q3AB-4XZU-U4JE": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:1b:cc:5c",
+        "model": "MR56"
+    },
+    "Q2CY-TM2Z-73UR": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:c2:1b:7b",
+        "model": "MS355-48X"
+    },
+    "Q2CY-RAJS-A5YL": {
+        "network": "SRV-PA1-Panama",
+        "networkId": "L_772367336094041726",
+        "timeZone": "America/Panama",
+        "mac": "a8:46:9d:c1:62:ad",
+        "model": "MS355-48X"
+    },
+    "Q3AC-M6KB-2BWN": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6a:17",
+        "model": "MR46"
+    },
+    "Q3AC-ESZP-VR7R": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:69:e9",
+        "model": "MR46"
+    },
+    "Q3AC-EPNR-9YCA": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:69:fe",
+        "model": "MR46"
+    },
+    "Q3AC-NP4A-T4FN": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:69:f6",
+        "model": "MR46"
+    },
+    "Q3AC-3KH8-FGAC": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6a:27",
+        "model": "MR46"
+    },
+    "Q3AC-GFV2-GTPV": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6e:a4",
+        "model": "MR46"
+    },
+    "Q3AC-3R5P-4BZV": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6a:0e",
+        "model": "MR46"
+    },
+    "Q3AC-FLS8-D6P5": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6d:e3",
+        "model": "MR46"
+    },
+    "Q3AC-AQ4R-H53Z": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:69:fa",
+        "model": "MR46"
+    },
+    "Q3AC-NCH5-KFNA": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "f8:9e:28:75:6e:f1",
+        "model": "MR46"
+    },
+    "Q3AB-X8C3-8LU5": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "98:18:88:ff:34:ab",
+        "model": "MR56"
+    },
+    "Q3AB-MZHL-N8ER": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "98:18:88:ff:34:84",
+        "model": "MR56"
+    },
+    "Q2CY-57L6-EK4M": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "2c:3f:0b:c5:f5:1f",
+        "model": "MS355-48X"
+    },
+    "Q2CY-Q5HE-ZTH4": {
+        "network": "SRV-CI1-Ivory-Coast",
+        "networkId": "L_772367336094041774",
+        "timeZone": "Etc/Greenwich",
+        "mac": "2c:3f:0b:c5:ee:aa",
+        "model": "MS355-48X"
+    },
+    "Q3AA-P5CW-6SHP": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:cf:5d",
+        "model": "MR45"
+    },
+    "Q3AA-HS65-5Y8C": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:ce:40",
+        "model": "MR45"
+    },
+    "Q3AA-HKVV-MVYT": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:cd:50",
+        "model": "MR45"
+    },
+    "Q2ZD-P8QG-SZG4": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:54:7a:da",
+        "model": "MR55"
+    },
+    "Q3AA-E3QQ-WKAH": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:cd:af",
+        "model": "MR45"
+    },
+    "Q3AA-VX5Q-B9RK": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:ce:4a",
+        "model": "MR45"
+    },
+    "Q3AA-SCAU-DX5R": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:ce:ba",
+        "model": "MR45"
+    },
+    "Q2ZD-LS7H-697T": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:54:7a:f5",
+        "model": "MR55"
+    },
+    "Q2ZD-P7J4-MA3G": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:54:7a:db",
+        "model": "MR55"
+    },
+    "Q2ZD-W5DU-72J3": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:54:7a:d9",
+        "model": "MR55"
+    },
+    "Q2ZD-APJY-HBP2": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:54:7a:dc",
+        "model": "MR55"
+    },
+    "Q3AA-4GLH-C2LS": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "68:3a:1e:2e:ce:db",
+        "model": "MR45"
+    },
+    "Q2CY-B28M-8PY3": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "98:18:88:62:66:b8",
+        "model": "MS355-48X"
+    },
+    "Q2CY-7278-K37U": {
+        "network": "SRV-CN8-China",
+        "networkId": "L_851743279526446854",
+        "timeZone": "Asia/Shanghai",
+        "mac": "98:18:88:63:03:3f",
+        "model": "MS355-48X"
+    }
+}

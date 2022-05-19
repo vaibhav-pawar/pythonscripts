@@ -1,0 +1,1085 @@
+[
+    {
+        "id": "L_662029145223468588",
+        "organizationId": "894791",
+        "name": "SRV-FR1-Horizon",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Active 1-EMEA 2-France 3-FR1 Horizon ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_662029145223473281",
+        "organizationId": "894791",
+        "name": "CAP-FR1-Montbonnot",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Lab 1-EMEA 2-France ",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "environmental",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_662029145223473341",
+        "organizationId": "894791",
+        "name": "SRV-TW1-Taiwan",
+        "timeZone": "Asia/Taipei",
+        "tags": " 0-Active 1-ASIA 2-Taiwan 3-TW1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_662029145223474081",
+        "organizationId": "894791",
+        "name": "SRV-KR1-Korea",
+        "timeZone": "Asia/Seoul",
+        "tags": " 0-Active 1-ASIA 2-Korea 3-KR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_662029145223474509",
+        "organizationId": "894791",
+        "name": "SRV-FR1-Surval",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Active 1-EMEA 2-France 3-FR1 Surval ",
+        "productTypes": [
+            "appliance",
+            "environmental",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_662029145223475109",
+        "organizationId": "894791",
+        "name": "SRV-JP1-Japan",
+        "timeZone": "Japan",
+        "tags": " 0-Active 1-ASIA 2-Japan 3-JP1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957187643",
+        "organizationId": "894791",
+        "name": "SRV-IN1-India",
+        "timeZone": "Asia/Kolkata",
+        "tags": " 0-Active 1-ASIA 2-India 3-IN1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957187644",
+        "organizationId": "894791",
+        "name": "SRV-LB1-Lebanon",
+        "timeZone": "Asia/Beirut",
+        "tags": " 0-Active 1-EMEA 2-Lebanon 3-LB1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957187645",
+        "organizationId": "894791",
+        "name": "SRV-MX2-Mexico",
+        "timeZone": "America/Mexico_City",
+        "tags": " 0-Active 1-AMER 2-Mexico 3-MX2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957187646",
+        "organizationId": "894791",
+        "name": "SRV-PK1-Pakistan",
+        "timeZone": "Asia/Karachi",
+        "tags": " 0-OnGoing 1-ASIA 2-Pakistan 3-PK1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_749849337957188523",
+        "organizationId": "894791",
+        "name": "BIO-CB7-Biogaran",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Active 1-EMEA 2-France 3-CB7 Biogaran ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957188546",
+        "organizationId": "894791",
+        "name": "SRV-GD2-Gidy",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-OnGoing 1-EMEA 2-France 3-GD2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957188593",
+        "organizationId": "894791",
+        "name": "SRV-SE1-Sweden",
+        "timeZone": "Europe/Stockholm",
+        "tags": " 0-Active 1-EMEA 2-Sweden 3-SE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_749849337957189064",
+        "organizationId": "894791",
+        "name": "SRV-BR1-Brazil",
+        "timeZone": "Brazil/East",
+        "tags": " 0-BestEffort 1-LATAM 2-Brazil 3-BR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_749849337957189582",
+        "organizationId": "894791",
+        "name": "SRV-CO1-Colombia",
+        "timeZone": "America/Bogota",
+        "tags": " 0-Active 1-LATAM 2-Colombia 3-CO1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040529",
+        "organizationId": "894791",
+        "name": "SRV-EE1-Estonia",
+        "timeZone": "Europe/Tallinn",
+        "tags": " 0-Active 1-EMEA 2-Estonia 3-EE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": true,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040639",
+        "organizationId": "894791",
+        "name": "SRV-SI1-Slovenia",
+        "timeZone": "Europe/Ljubljana",
+        "tags": " 0-Active 1-EMEA 2-Slovenia 3-SI1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040721",
+        "organizationId": "894791",
+        "name": "SRV-FI1-Finland",
+        "timeZone": "Europe/Helsinki",
+        "tags": " 0-Active 1-EMEA 2-Finland 3-FI1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040728",
+        "organizationId": "894791",
+        "name": "SRV-MM1-Myanmar",
+        "timeZone": "Asia/Rangoon",
+        "tags": " 0-Active 1-ASIA 2-Myanmar 3-MM1 Yangon ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040850",
+        "organizationId": "894791",
+        "name": "SRV-AR1-Argentina",
+        "timeZone": "America/Argentina/Buenos_Aires",
+        "tags": " 0-Active 1-LATAM 2-Argentina 3-AR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040851",
+        "organizationId": "894791",
+        "name": "SRV-XXX-Template",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-OnGoing ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040884",
+        "organizationId": "894791",
+        "name": "SRV-US2-United_States",
+        "timeZone": "US/Eastern",
+        "tags": " 0-Active 1-AMER 2-UnitedStates 3-US2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040887",
+        "organizationId": "894791",
+        "name": "SRV-CH2-Switzerland",
+        "timeZone": "Europe/Zurich",
+        "tags": " 0-Active 1-EMEA 2-Switzerland 3-CH2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094040888",
+        "organizationId": "894791",
+        "name": "SRV-KH1-Cambodia",
+        "timeZone": "Asia/Phnom_Penh",
+        "tags": " 0-Active 1-ASIA 2-Cambodia 3-KH1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041055",
+        "organizationId": "894791",
+        "name": "SRV-HR1-Croatia",
+        "timeZone": "Europe/Zagreb",
+        "tags": " 0-Active 1-EMEA 2-Croatia 3-HR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041069",
+        "organizationId": "894791",
+        "name": "SRV-SG1-Singapore",
+        "timeZone": "Asia/Singapore",
+        "tags": " 0-Active 1-ASIA 2-Singapore 3-SG1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041104",
+        "organizationId": "894791",
+        "name": "SRV-LK1-Sri_Lanka",
+        "timeZone": "Asia/Colombo",
+        "tags": " 0-Active 1-ASIA 2-Srilanka 3-LK1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041127",
+        "organizationId": "894791",
+        "name": "SRV-DZ1-Algeria",
+        "timeZone": "Africa/Algiers",
+        "tags": " 0-OnGoing 1-EMEA 2-Algeria 3-DZ1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041128",
+        "organizationId": "894791",
+        "name": "SRV-MA1-Morocco",
+        "timeZone": "Africa/Casablanca",
+        "tags": " 0-Active 1-EMEA 2-Morocco 3-MA1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041129",
+        "organizationId": "894791",
+        "name": "SRV-HK1-Hong_Kong",
+        "timeZone": "Asia/Hong_Kong",
+        "tags": " 0-Active 1-ASIA 2-HongKong 3-HK1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041175",
+        "organizationId": "894791",
+        "name": "SRV-EC1-Ecuador",
+        "timeZone": "Etc/GMT-5",
+        "tags": " 0-Active 1-LATAM 2-Ecuador 3-EC1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_772367336094044245",
+        "organizationId": "894791",
+        "name": "SRV-FR1-Surval-DC",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Active 1-EMEA 2-France 3-FR1 Surval ",
+        "productTypes": [
+            "appliance"
+        ],
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041266",
+        "organizationId": "894791",
+        "name": "SRV-NL1-Netherlands",
+        "timeZone": "Europe/Amsterdam",
+        "tags": " 0-Active 1-EMEA 2-Netherlands 3-NL1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041298",
+        "organizationId": "894791",
+        "name": "SRV-CZ1-Czech_Republic",
+        "timeZone": "Europe/Prague",
+        "tags": " 0-Active 1-EMEA 2-Czech_Republic 3-CZ1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041300",
+        "organizationId": "894791",
+        "name": "SRV-UZ1-Uzbekistan",
+        "timeZone": "Asia/Tashkent",
+        "tags": " 0-Active 1-EMEA 2-Uzbekistan 3-UZ1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041301",
+        "organizationId": "894791",
+        "name": "SRV-AZ1-Azerbaijan",
+        "timeZone": "Asia/Baku",
+        "tags": " 0-Active 1-EMEA 2-Azerbaijan 3-AZ1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041302",
+        "organizationId": "894791",
+        "name": "SRV-TH1-Thailand",
+        "timeZone": "Asia/Bangkok",
+        "tags": " 0-Active 1-ASIA 2-Thailand 3-TH1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041303",
+        "organizationId": "894791",
+        "name": "SRV-IE2-Ireland",
+        "timeZone": "Europe/Dublin",
+        "tags": " 0-Active 1-EMEA 2-Ireland 3-IE2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041349",
+        "organizationId": "894791",
+        "name": "SRV-RS1-Serbia",
+        "timeZone": "Europe/Belgrade",
+        "tags": " 0-Active 1-EMEA 2-Serbia 3-RS1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041352",
+        "organizationId": "894791",
+        "name": "SRV-MX1-Mexico",
+        "timeZone": "America/Mexico_City",
+        "tags": " 0-Active 1-AMER 2-Mexico 3-MX1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041365",
+        "organizationId": "894791",
+        "name": "SRV-MM2-Myanmar",
+        "timeZone": "Asia/Yangon",
+        "tags": " 0-Active 1-ASIA 2-Myanmar 3-MM2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041401",
+        "organizationId": "894791",
+        "name": "SRV-DK1-Denmark",
+        "timeZone": "Europe/Copenhagen",
+        "tags": " 0-Active 1-EMEA 2-Denmark 3-DK1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041410",
+        "organizationId": "894791",
+        "name": "SRV-AM1-Armenia",
+        "timeZone": "Asia/Yerevan",
+        "tags": " 0-Active 1-EMEA 2-Armenia 3-AM1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041470",
+        "organizationId": "894791",
+        "name": "SRV-FR5-Saclay",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-Active 1-EMEA 2-France 3-FR2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041471",
+        "organizationId": "894791",
+        "name": "SRV-PH1-Philippines",
+        "timeZone": "Asia/Manila",
+        "tags": " 0-Active 1-ASIA 2-Philippines 3-PH1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041472",
+        "organizationId": "894791",
+        "name": "SRV-IE1-Ireland",
+        "timeZone": "Europe/Dublin",
+        "tags": " 0-Active 1-EMEA 2-Ireland 3-IE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041534",
+        "organizationId": "894791",
+        "name": "SRV-ID1-Indonesia",
+        "timeZone": "Asia/Jakarta",
+        "tags": " 0-Active 1-ASIA 2-Indonesia 3-ID1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041623",
+        "organizationId": "894791",
+        "name": "SRV-LV1-Latvia",
+        "timeZone": "Europe/Riga",
+        "tags": " 0-Active 1-EMEA 2-Latvia 3-LV1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041655",
+        "organizationId": "894791",
+        "name": "SRV-IT1-Italy",
+        "timeZone": "Europe/Rome",
+        "tags": " 0-OnGoing 1-EMEA 2-Italy 3-IT1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041662",
+        "organizationId": "894791",
+        "name": "SRV-AT1-Austria",
+        "timeZone": "Europe/Vienna",
+        "tags": " 0-Active 1-EMEA 2-Austria 3-AT1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041664",
+        "organizationId": "894791",
+        "name": "SRV-TR1-Turkey",
+        "timeZone": "Turkey",
+        "tags": " 0-Active 1-EMEA 2-Turkey 3-TR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041668",
+        "organizationId": "894791",
+        "name": "SRV-AE1-United_Arab_Emirates",
+        "timeZone": "Asia/Dubai",
+        "tags": " 0-Active 1-EMEA 2-United_Arab_Emirates 3-AE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041669",
+        "organizationId": "894791",
+        "name": "SRV-MA2-Morocco",
+        "timeZone": "Africa/Casablanca",
+        "tags": " 0-OnGoing 1-EMEA 2-Morocco 3-MA2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041670",
+        "organizationId": "894791",
+        "name": "SRV-US3-United_States",
+        "timeZone": "US/East-Indiana",
+        "tags": " 0-Active 1-AMER 2-UnitedStates 3-US3 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041672",
+        "organizationId": "894791",
+        "name": "SRV-RO1-Romania",
+        "timeZone": "Europe/Bucharest",
+        "tags": " 0-Active 1-EMEA 2-Romania 3-RO1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041708",
+        "organizationId": "894791",
+        "name": "SRV-VN1-Vietnam",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "tags": " 0-Active 1-ASIA 2-Vietnam 3-VN1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041709",
+        "organizationId": "894791",
+        "name": "SRV-VN3-Vietnam",
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "tags": " 0-Active 1-ASIA 2-Vietnam 3-VN3 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041715",
+        "organizationId": "894791",
+        "name": "SRV-EG1-Egypt",
+        "timeZone": "Egypt",
+        "tags": " 0-Active 1-EMEA 2-Egypt 3-EG1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041716",
+        "organizationId": "894791",
+        "name": "SRV-SA1-Saudi_Arabia",
+        "timeZone": "Asia/Riyadh",
+        "tags": " 0-Active 1-EMEA 2-Saudi_Arabia 3-SA1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041718",
+        "organizationId": "894791",
+        "name": "SRV-PE1-Peru",
+        "timeZone": "America/Lima",
+        "tags": " 0-Active 1-AMER 2-Peru 3-PE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041720",
+        "organizationId": "894791",
+        "name": "SRV-BY1-Belarus",
+        "timeZone": "Europe/Minsk",
+        "tags": " 0-OnGoing 1-EMEA 2-Belarus 3-BY1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041724",
+        "organizationId": "894791",
+        "name": "SRV-AU1-Australia",
+        "timeZone": "Australia/Melbourne",
+        "tags": " 0-Active 1-ASIA 1-EMEA 2-Australia 3-AU1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041726",
+        "organizationId": "894791",
+        "name": "SRV-PA1-Panama",
+        "timeZone": "America/Panama",
+        "tags": " 0-Active 1-LATAM 2-Panama 3-PA1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041744",
+        "organizationId": "894791",
+        "name": "SRV-DE1-Germany",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-OnGoing 1-EMEA 2-Germany 3-DE1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041746",
+        "organizationId": "894791",
+        "name": "SRV-AR2-Argentina",
+        "timeZone": "America/Buenos_Aires",
+        "tags": " 0-Active 1-LATAM 2-Argentina 3-AR2 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041747",
+        "organizationId": "894791",
+        "name": "SRV-GR1-Greece",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-OnGoing 1-EMEA 2-Greece 3-GR1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041751",
+        "organizationId": "894791",
+        "name": "SRV-BL1-Bolbec",
+        "timeZone": "Europe/Paris",
+        "tags": " 0-OnGoing ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041752",
+        "organizationId": "894791",
+        "name": "SRV-MY1-Malaysia",
+        "timeZone": "Asia/Ulan_Bator",
+        "tags": " 0-OnGoing ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041774",
+        "organizationId": "894791",
+        "name": "SRV-CI1-Ivory-Coast",
+        "timeZone": "Etc/Greenwich",
+        "tags": " 0-Active ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_772367336094041779",
+        "organizationId": "894791",
+        "name": "SRV-UA1-Ukraine",
+        "timeZone": "Europe/Kiev",
+        "tags": " 0-OnGoing 1-EMEA 2-Ukraine 3-UA1 ",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_851743279526446854",
+        "organizationId": "850617379619605599",
+        "name": "SRV-CN8-China",
+        "timeZone": "Asia/Shanghai",
+        "tags": " 0-Active 1-ASIA 2-China 3-CN8  0-Active",
+        "productTypes": [
+            "appliance",
+            "cellular gateway",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_851743279526454897",
+        "organizationId": "850617379619605599",
+        "name": "SRV-CN1-China",
+        "timeZone": "Asia/Shanghai",
+        "tags": " 0-OnGoing 1-ASIA 2-China 3-CN1 ",
+        "productTypes": [
+            "appliance",
+            "environmental",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "org_id": "894791",
+        "name": "Servier Global",
+        "api_key": "2828f0a3484fe9c296f2230cfad9899e3196aecf",
+        "url": "https://api.meraki.com/api/v1/organizations/894791",
+        "china_dashboard": false,
+        "tags": [],
+        "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "X-Cisco-Meraki-API-Key": "2828f0a3484fe9c296f2230cfad9899e3196aecf"
+        }
+    },
+    {
+        "org_id": "850617379619605599",
+        "name": "Servier China",
+        "api_key": "bc5e588f019285af8fb989b993b39b8ebce44bb8",
+        "url": "https://api.meraki.cn/api/v1/organizations/850617379619605599",
+        "china_dashboard": true,
+        "tags": [],
+        "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "X-Cisco-Meraki-API-Key": "bc5e588f019285af8fb989b993b39b8ebce44bb8"
+        }
+    }
+]
