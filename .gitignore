@@ -5,7 +5,7 @@
 *.doc*
 Backup of *.doc*
 ~$*.xls*
-.xls*
+*.xls*
 *.xlk
 ~$*.ppt*
 *.ppt*
