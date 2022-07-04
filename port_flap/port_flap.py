@@ -1,4 +1,5 @@
 from time import sleep
+from turtle import Turtle
 import meraki
 from datetime import datetime
 import argparse
@@ -83,7 +84,10 @@ def main():
                 except meraki.APIError:
                     raiseError(meraki.APIError)
                 #sleep(1)
-                i = i+1
+                if i == True:
+                    continue
+                else:
+                    i = i+1
     #return(0)
 
 def raiseError(exception):
