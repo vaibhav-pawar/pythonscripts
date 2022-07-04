@@ -1,5 +1,4 @@
 from time import sleep
-from turtle import Turtle
 import meraki
 from datetime import datetime
 import argparse
