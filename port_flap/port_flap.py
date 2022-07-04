@@ -2,6 +2,7 @@ from time import sleep
 import meraki
 from datetime import datetime
 import argparse
+import os
 
 def main():
 
@@ -18,13 +19,16 @@ def main():
         tag = [f'3-{net_arg[1].upper()}', f'{net_arg[2]}'] # Set tag format for network
 
     device_tags = cmd_args.switch_tags if cmd_args.switch_tags is not None else ""
-    count = cmd_args.count
+    if cmd_args.count is not None:
+        count = cmd_args.count
+    else:
+        count = True
 
 
     # Load organizations
     try:
         dashboard = meraki.DashboardAPI(
-            api_key=cmd_args.api_key,
+            api_key=cmd_args.api_key if cmd_args.api_key is not None else os.getenv('MERAKI_DASHBOARD_API_KEY'),
             base_url='https://api.meraki.com/api/v1/',
             output_log=False,
             print_console=False,
@@ -58,7 +62,10 @@ def main():
             tags=device_tags if device_tags is not None else ""
             ) # Get devices in current network
         for device in devices:
-            i=1
+            if count == True:
+                i=True
+            else: i=1
+                
             # Exclude devices that aren't MR access points
             if "MS" not in device["model"]:
                 continue
